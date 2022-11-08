@@ -1,0 +1,74 @@
+body
+{
+	background-image: url(White-Desk-Simple-Background-Image-.jpg);
+}
+.container
+{
+	text-align: center;
+	margin-top: 50px;
+	font-family: 'Niramit', sans-serif;
+	align-items: center;
+}
+.mainform
+{
+
+}
+.heading h3
+{
+	
+	font-weight: bold;
+	font-size: 55px;
+	margin-left: 36px;
+
+}
+.heading p
+{
+	font-weight: bolder;
+	font-size: 15px;
+	margin-left: 34px;
+}
+.btn #gmail 
+{
+	background-color: red;
+	width: 130%;
+	color: white;
+	font-weight: bold;
+
+
+}
+.btn #fb
+{
+	background-color: red;
+	width: 130%;
+	color: white;
+	font-weight: bold;
+
+}
+.form
+{
+	margin-left: 40px;
+	
+}
+.form form
+{
+	text-align: center;
+}
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+
+  	.btn #gmail 
+{
+	background-color: red;
+	width: 130%;
+	color: white;
+	font-weight: bold;
+}
+input
+{
+	width: 100px;
+}
+}
+
+
